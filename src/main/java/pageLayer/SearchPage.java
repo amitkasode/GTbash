@@ -27,7 +27,7 @@ public class SearchPage {
     @FindBy(xpath = "(//span[@role='heading'])[2]")
     private WebElement firstResultName;
     
-    //------------------s
+    //------------------login branch 
 
     // ------------ Action methods ----------------
 
